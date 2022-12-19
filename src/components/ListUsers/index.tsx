@@ -46,9 +46,11 @@ export function ListUsers() {
         <Search onChange={setInfoFilter} />
       </SearchContainer>
       <BoxTable>
-        <TitleTable>
-          Tabela de Usuários
-        </TitleTable>
+        {
+          users.length > 0 ?
+            <TitleTable> Tabela de Usuários </TitleTable> :
+            <TitleTable>Falha ao conectar no servidor. Recarregue a pagina.</TitleTable>
+        }
         <ContentTable>
           <Table>
             <Thead>
