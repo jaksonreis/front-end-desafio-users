@@ -10,7 +10,8 @@ Este é um desafio de front-end da <b>Planefone<b>.
 Este projeto foi inicializado com o [Create Vite](https://vitejs.dev/) .
 
 ## Sobre o desenvolvimento
-Projeto desenvolvido para consumir o Back-End presente neste repositório [EXAMPLE](https://github.com/jaksonreis/back-end-desafio-users) 
+Projeto desenvolvido para consumir o Back-End presente neste repositório [
+back-end-desafio-users](https://github.com/jaksonreis/back-end-desafio-users) 
 
 ## Tecnologias e bibliotecas usadas no desenvolvimento
 
