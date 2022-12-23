@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido com o intuito de buscar 5 usuários da API e listar todos em ordem alfabética.
 
-Este é um desafio de front-end da <b>Planefone</b>.
+Este é um desafio de front-end da <b>Planetfone</b>.
 
 ## Introdução ao Create Vite
 Este projeto foi inicializado com o [Create Vite](https://vitejs.dev/) .
